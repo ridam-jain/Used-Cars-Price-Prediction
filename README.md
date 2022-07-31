@@ -9,4 +9,4 @@ OUTPUT Feature: MSRP(Price)
 
 Concepts Used: Exploratory Data Analysis (like removing missing values, replacing characters, etc), Data Cleaning, Data Visualisation (using Matplotlib,  Seaborn and Plotly), Univariate analysis, Bivariate analysis, Multivariate analysis, One-Hot Encoding, Feature dropping, Train/Test Split, Training and Evaluating M.L algorithms: XGBoost, Multiple Linear Regression, Random Forest Regression and Decision Tree.
 
-NOTE: In this project, plotly library is used to create interactive charts to have a better analysis of various features. On uploading the same notebook (containing intercative charts) here, Github has hidden those visualisations. Kindly look into the pdf format to find the charts used for the analysis. 
+NOTE: In this project, plotly library has been used to create interactive charts to have a better analysis of various features. On uploading the same notebook (containing intercative charts) here, Github has hidden those visualisations. Kindly look into the pdf format to find the charts used for the analysis. 
